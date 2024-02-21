@@ -1,6 +1,6 @@
-# rameshrajendran
+
 <h1 align="center">Hi <img style="height: 40px;" src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="smile Emoji">, I'm Ramesh Rajendran</h1>
-    <h3 align="center">Programming Enthusiast from India</h3>
+    <h3 align="center">Programming Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rameshraj55&label=Profile%20views&color=0e75b6&style=flat" alt="rameshraj55-views" /> </p>
 
